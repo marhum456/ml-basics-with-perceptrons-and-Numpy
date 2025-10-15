@@ -81,7 +81,6 @@ All examples focus on **real-world binary classification problems** across diver
 3. Q13 includes **visualization** of optimizer performance over epochs.
 
 > 💡 **Note**: All code snippets assume a Jupyter Notebook environment (uses `IPython.display.Image` for diagrams, though images are not included in this repo).
-
 ---
 
 ## 📄 License
