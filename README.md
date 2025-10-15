@@ -54,29 +54,6 @@ All examples focus on **real-world binary classification problems** across diver
 
 ---
 
-## 🌐 Real-World Applications Covered
-
-- Customer email campaign response prediction  
-- Oil refinery equipment failure detection  
-- Automotive fault diagnosis  
-- Predictive maintenance scheduling  
-- Customer Lifetime Value (CLV) estimation  
-- Hospital patient readmission risk  
-- Power grid fault detection  
-- Smart traffic light control  
-- Social media engagement forecasting  
-- Movie box office success prediction  
-- Air quality & pollution monitoring  
-- Vehicle safety compliance  
-- Retail price optimization  
-- Inventory restocking recommendation  
-- Slippery road warning systems  
-- Hybrid vehicle mode switching  
-- Smart irrigation systems  
-- Disease outbreak analytics  
-
----
-
 ## 📚 How to Use
 
 1. Each example/task is self-contained with:
