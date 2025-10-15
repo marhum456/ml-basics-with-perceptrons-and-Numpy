@@ -72,13 +72,9 @@ All examples focus on **real-world binary classification problems** across diver
 
 ## 📚 How to Use
 
-1. Each example/task is self-contained with:
-   - Input features
-   - Weights & bias (user-defined or random)
-   - Forward propagation logic
-   - Output prediction (with probability)
-2. Tasks Q11–Q13 include **training loops**, **loss tracking**, and **weight updates**.
-3. Q13 includes **visualization** of optimizer performance over epochs.
+1. Copy any example or task into a notebook cell.
+2. Execute—no external data files are needed (all inputs are hardcoded).
+3. Experiment by changing inputs, weights, or thresholds.
 
 > 💡 **Note**: All code snippets assume a Jupyter Notebook environment (uses `IPython.display.Image` for diagrams, though images are not included in this repo).
 ---
