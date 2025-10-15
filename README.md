@@ -44,15 +44,31 @@ All examples focus on **real-world binary classification problems** across diver
 
 ---
 
-## 🛠️ Technologies Used
+## 🧰 Technologies Used
 
-- **Python**
-- **NumPy** (for linear algebra & array operations)
-- **Matplotlib** (for optimizer comparison plots in Q13)
-- **Sigmoid activation function** throughout
-- **Binary Cross-Entropy Loss** for classification tasks
+- **Language:** Python 3.x
+
+- **Libraries:**
+  - **NumPy** – Numerical computations
+  - **Matplotlib** – Visualization
+  - **Scikit-learn** – Model evaluation
+  - **IPython / Jupyter** – Interactive notebooks
 
 ---
+
+## 📊 Key Insights
+
+### Single-Layer Perceptrons (SLP):
+- Efficient for simple binary tasks.
+- Limited by linear separability.
+
+### Multi-Layer Perceptrons (MLP):
+- Handles non-linear relationships effectively.
+- Provides better generalization on complex datasets.
+
+### Performance Gain:
+- MLPs show improved accuracy and recall when compared to SLPs.
+- The addition of hidden layers allows for learning more complex data representations.
 
 ## 📚 How to Use
 
